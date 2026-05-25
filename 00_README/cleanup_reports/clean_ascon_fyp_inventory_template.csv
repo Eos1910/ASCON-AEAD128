@@ -1,0 +1,2 @@
+path,type,purpose,keep_or_remove
+01_Firmware/full_ascon,folder,Full ASCON firmware source,keep

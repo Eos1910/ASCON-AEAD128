@@ -1,0 +1,32 @@
+# Python/Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# ChipWhisperer build outputs
+objdir-*/
+*.o
+*.lst
+*.elf
+*.hex
+*.bin
+*.eep
+*.lss
+*.map
+*.sym
+
+# Large generated data/model files
+03_Data/
+04_Results
+05_Models
+
+# Temporary files
+*.tmp
+*.bak
+
+# Scripts and docs
+create_ASCON_FYP_folders.bat
+hand_over_ASCON.txt
+structure_tree_ASCON_expected.txt
+sync_data.bat
+
